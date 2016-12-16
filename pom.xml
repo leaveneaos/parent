@@ -21,18 +21,6 @@
 
     <repositories>
         <repository>
-            <id>nexus</id>
-            <name>nexus</name>
-            <url>http://192.168.1.199:8081/nexus/content/groups/public/</url>
-            <releases>
-                <enabled>true</enabled>
-            </releases>
-            <snapshots>
-                <enabled>true</enabled>
-            </snapshots>
-            <layout>default</layout>
-        </repository>
-        <repository>
             <id>rjxx</id>
             <name>rjxx</name>
             <url>http://doc.datarj.com:8081/nexus/content/groups/public/</url>
@@ -49,18 +37,6 @@
     </repositories>
 
     <pluginRepositories>
-        <pluginRepository>
-            <id>nexus</id>
-            <name>nexus</name>
-            <url>http://192.168.1.199:8081/nexus/content/groups/public/</url>
-            <releases>
-                <enabled>true</enabled>
-            </releases>
-            <snapshots>
-                <enabled>true</enabled>
-            </snapshots>
-            <layout>default</layout>
-        </pluginRepository>
         <pluginRepository>
             <id>rjxx</id>
             <name>rjxx</name>
