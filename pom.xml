@@ -278,6 +278,11 @@
 				<artifactId>aliyun-java-sdk-dm</artifactId>
 				<version>3.0.0-rc2</version>
 			</dependency>
+			 <dependency>
+    			<groupId>org.apache.solr</groupId>
+    			<artifactId>solr-solrj</artifactId>
+    			<version>6.3.0</version>
+			</dependency>
 		</dependencies>
 	</dependencyManagement>
 
