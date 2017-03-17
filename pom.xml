@@ -294,7 +294,7 @@
 		            <artifactId>quartz-jobs</artifactId>
 		            <version>2.2.3</version>
 		        </dependency>
-		        <!-- Log4j2 -->
+		       <!-- Log4j2 -->
 		        <dependency>
 		            <groupId>org.slf4j</groupId>
 		            <artifactId>slf4j-log4j12</artifactId>
@@ -305,7 +305,7 @@
 		            <artifactId>fastjson</artifactId>
 		            <version>1.2.12</version>
 		        </dependency>
-		</dependencies>
+		</dependencies>				
 	</dependencyManagement>
 
 	<distributionManagement>
