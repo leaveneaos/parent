@@ -299,6 +299,11 @@
 		            <artifactId>fastjson</artifactId>
 		            <version>1.2.12</version>
 		        </dependency>
+		        <dependency>
+  				<groupId>com.rjxx.thirdpart</groupId>
+  				<artifactId>ojdbc</artifactId>
+  				<version>6</version>
+			</dependency>
 		</dependencies>				
 	</dependencyManagement>
 
