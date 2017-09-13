@@ -304,6 +304,11 @@
   					<artifactId>ojdbc</artifactId>
   					<version>6</version>
 			</dependency>
+			<dependency>
+				<groupId>de.odysseus.staxon</groupId>
+				<artifactId>staxon</artifactId>
+				<version>1.2</version>
+			</dependency>
 		</dependencies>				
 	</dependencyManagement>
 
